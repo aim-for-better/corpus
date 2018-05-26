@@ -1,6 +1,5 @@
-entity1 entity2 relation sentence
 Alibaba	Ele.me	invest	In April 2016, Ele.me raised $1.25 billion from Alibaba and its internet finance arm Ant Financial.
-Ant Financial	Ele.me	invest In April 2016, Ele.me raised $1.25 billion from Alibaba and its internet finance arm Ant Financial.
+Ant Financial	Ele.me	invest	In April 2016, Ele.me raised $1.25 billion from Alibaba and its internet finance arm Ant Financial.
 Ele.me	Baidu Waimai	acquire	Ele.me officially announced the purchase of Baidu Waimai, the food delivery unit of major internet search engine Baidu Inc, in August last year.
 Ele.me	Meituan Waimai	competitor	The market is dominated by Ele.me and Meituan Waimai, which currently hold 48.8 percent and 43.1 percent of market shares respectively, according to market consultancy Analysys.
 Zhang Yong	Alibaba	employeed	Yicai said it's possible that Ele.me will be put under Alibaba's CEO Daniel Zhang Yong, and play a role of new retail infrastructure.
@@ -8,11 +7,11 @@ Alibaba	Tencent	competitor	Competition between Alibaba, Tencent intensifies in t
 Tencent	Heilan Home Co Ltd	invest	Tencent's latest investment in Chinese menswear group Heilan Home Co Ltd, its third move into the retail market within a week, highlights its ambition to challenge Alibaba as the two are racing to reinvent old-school retailing with technology, analysts said on Monday.
 Alibaba	Ant Financial	acquire	Country's e-commerce behemoth, Alibaba Group Holding Ltd, announced to have purchased 33 percent stake in its payment arm, Ant Financial Services Group, which is reportedly a move aiming at clearing the way for an initial public offering.
 Tencent	Dalian WanDa	invest	A consortium led by Tencent Holdings Ltd will invest 34 billion yuan ($5.37 billion) in the commercial property arm of Dalian Wanda Group, among the latest and biggest tie-up between internet firms and brick-and-mortar commerce in China to revamp old-school retailing.
-Tencent	Skydance	Internet conglomerate Tencent Holdings Ltd is buying a stake in Skydance Media LLC, the Hollywood production company behind Terminator, as it expands its entertainment portfolio to draw a larger audience from home and abroad.
+Tencent	Skydance	acquire	Internet conglomerate Tencent Holdings Ltd is buying a stake in Skydance Media LLC, the Hollywood production company behind Terminator, as it expands its entertainment portfolio to draw a larger audience from home and abroad.
 Alan Qi	AntFinancial	employeed	"AI is ubiquitous like water. It's like nutrition to business development," said Alan Qi, vice-president and chief data scientist at Ant Financial.
 Didi	19Pay	acquire	Didi has agreed to acquire third-party payment-services provider 19Pay for 300 million yuan ($45.4 million), according to a filing by Shenzhen-listed GoHigh Data Networks Technology Co, the owner of 19Pay.
 LiChao	iResearch	employeed	Li Chao, a senior analyst at market research company iResearch, said it is a natural move for Didi to enter the internet finance sector, as the company processes a huge amount of data every day.
-Mobike	Ofo	competitorWhether China's largest bike-sharing start-ups, Mobike and Ofo, will merge drew more attention in the second half of the year, with investors implying "yes" while managers said "no".
+Mobike	Ofo	competitor	Whether China's largest bike-sharing start-ups, Mobike and Ofo, will merge drew more attention in the second half of the year, with investors implying "yes" while managers said "no".
 WangXiaofeng	Mobike	employeed	Wang Xiaofeng, Mobike's founder and chief executive, said in late November his company will never merge with Ofo. Dai Wei, CEO of Ofo, also denied the merger in public.
 DaiWei	Ofo	employeed	Wang Xiaofeng, Mobike's founder and chief executive, said in late November his company will never merge with Ofo. Dai Wei, CEO of Ofo, also denied the merger in public.
 Ele.me	Baidu Waimai	competitor	Ele.me, one of the largest players in China's food delivery service sector, has officially announced the purchase of its rival Baidu Waimai, the food delivery unit of major internet search engine Baidu Inc－a move that's expected to shore up Ele.me's lead in a fiercely competitive industry.
@@ -48,3 +47,5 @@ Alibaba	Suning	cooperate	Chinese e-commerce giant Alibaba Group Holding Ltd and 
 Alibaba	JD	competitor	Chinese e-commerce giant Alibaba Group Holding Ltd and retail giant Suning Commerce Group Co plan to invest 1 billion yuan ($148 million) to set up an e-commerce firm in Chongqing, a move that is likely to intensify their competition with JD.com Inc, China's second-largest e-commerce player. 
 Suning	JD	competitor	Chinese e-commerce giant Alibaba Group Holding Ltd and retail giant Suning Commerce Group Co plan to invest 1 billion yuan ($148 million) to set up an e-commerce firm in Chongqing, a move that is likely to intensify their competition with JD.com Inc, China's second-largest e-commerce player. 
 Ant Financial	Ascend Money	acquire	Ant Financial Services Group, the financial arm of Alibaba Group Holding Ltd, will acquire a 20 percent stake in Ascend Money, an online payment service provider in Thailand, according to the Ministry of Commerce.
+Alibaba	Tencent	competitor	As controllers of Ele.me and Meituan, the competition between Alibaba and Tencent will extend from the online market to the offline market.
+Tencent	Ctrip	competitor	Tencent and Ctrip will become major shareholders of the new company after the merger along with other shareholders like Wanda and Ctrip-backed OceanLink.
